@@ -11,3 +11,6 @@ Original name Wade Wilson. A Mercanary after he realised he had cancer voluntear
 Unfortunately it did't heal the cancer.
 
 > chimichangas
+
+Picture by Mike Mozart, CCBYSA 2.0
+<img src="pool.jpg"/>
