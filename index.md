@@ -1,6 +1,6 @@
 # Deadpool
 
-##Character Traits:
+## Character Traits:
 * Irrational
 * Great in Martial Arts
 * Succidal
